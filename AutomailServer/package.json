@@ -1,0 +1,19 @@
+{
+  "name": "automailserver",
+  "version": "1.0.0",
+  "description": "Serving the react app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeniorSam9/Automail.git"
+  },
+  "author": "SeniorSam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SeniorSam9/Automail/issues"
+  },
+  "homepage": "https://github.com/SeniorSam9/Automail#readme"
+}
